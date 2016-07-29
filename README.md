@@ -1,5 +1,4 @@
-# weblearnerz
- <pre>
+<pre>
             This is a simple laravel-blog.
             Properties:
                 -Post Add-Update-Delete
@@ -17,4 +16,14 @@
                 -Jquery
                 -Mysql
                 -Laravel
-        </pre>
+</pre>
+##How to install
+<pre>
+-install composer
+-run composer install
+-config .env file
+-run php artisan migrate
+-install npm
+-install bower
+-run bower install
+</pre>
